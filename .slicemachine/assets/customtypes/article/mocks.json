@@ -1,0 +1,32 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "article",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": [
+      {
+        "type": "paragraph",
+        "text": "Ut exercitation exercitation laborum in Lorem pariatur cupidatat voluptate. Ad deserunt nostrud elit nulla exercitation sint et excepteur id do do sit commodo aliqua. Aute proident ipsum dolore ex laborum culpa velit aliquip fugiat ex adipisicing.",
+        "spans": []
+      }
+    ],
+    "featuredImage": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef"
+    },
+    "slices": []
+  }
+}

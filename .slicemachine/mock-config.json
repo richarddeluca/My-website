@@ -1,0 +1,56 @@
+{
+  "slices": {
+    "Quote": {
+      "default": {
+        "primary": {
+          "quote": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          },
+          "person": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        },
+        "items": {}
+      }
+    },
+    "Text": {
+      "default": {
+        "primary": {
+          "description": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "ImageInText": {},
+    "ImageInPost": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "Hero": {},
+    "Categories": {},
+    "Articles": {},
+    "Reply": {}
+  },
+  "_cts": {
+    "article": {
+      "title": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      }
+    },
+    "page": {}
+  }
+}

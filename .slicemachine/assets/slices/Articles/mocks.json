@@ -1,0 +1,26 @@
+[
+  {
+    "variation": "default",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {}
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Observe",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Nulla anim laborum fugiat commodo minim occaecat minim mollit enim consectetur.",
+          "spans": []
+        }
+      ]
+    },
+    "slice_type": "articles"
+  }
+]

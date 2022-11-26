@@ -1,3 +1,14 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": [
+    "next",
+    "@rocketseat/eslint-config/react"
+  ],
+  "rules": {
+    "semi": [
+      "error",
+      "never"
+    ],
+    "no-unused-vars": "warn",
+    "prettier/prettier": "warn"
+  }
 }
